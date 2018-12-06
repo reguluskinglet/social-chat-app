@@ -1,2 +1,2 @@
 # social-chat-app
-Social chat app
+Social chat web-api

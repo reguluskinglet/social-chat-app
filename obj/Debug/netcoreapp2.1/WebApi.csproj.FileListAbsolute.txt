@@ -1,0 +1,14 @@
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/bin/Debug/netcoreapp2.1/WebApi.deps.json
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.json
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.dev.json
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/bin/Debug/netcoreapp2.1/WebApi.dll
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/bin/Debug/netcoreapp2.1/WebApi.pdb
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.csprojAssemblyReference.cache
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.csproj.CoreCompileInputs.cache
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cache
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cs
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfoInputs.cache
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfo.cs
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.RazorTargetAssemblyInfo.cache
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.dll
+/Volumes/STORAGE/SANDBOX/NetCore/aspnet-core-registration-login-api-master/obj/Debug/netcoreapp2.1/WebApi.pdb
